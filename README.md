@@ -21,6 +21,8 @@
 *Multi-source DC circuits may be analyzed using a mesh current technique. The process involves identifying minimum number of small loops such that every component exists in at least one loop. KVL is then applied to each loop. The loop currents are referred to as mesh currents as each current interlocks or meshes with the surrounding loop currents. As a result there will be a set of simultaneous equations created, an unknown mesh current for each loop. Once the mesh currents are determined, various branch currents and component voltages may be derived*
 
 **CIRCUIT DIAGRAM:**
+![WhatsApp Image 2026-03-17 at 5 15 56 PM](https://github.com/user-attachments/assets/5e19a44b-b274-4bf7-873a-d1f8ef72d9f8)
+
 
 **PROCEDURE:** 
 
@@ -35,14 +37,20 @@
 5.	Reduce the RPS to its minimum value and switch OFF the supply.
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
+7.	**TABULATION COLUMN**
+8.	![WhatsApp Image 2026-03-17 at 5 22 53 PM (1)](https://github.com/user-attachments/assets/ddcfec44-b781-42ca-9791-3914c7078f5b)
+9.	**CALCULATION**
+10.	![WhatsApp Image 2026-03-17 at 5 24 20 PM](https://github.com/user-attachments/assets/e58a6390-3f78-4fd8-8858-82abcb983c63)
+**MARKS SPILT UP**
+![WhatsApp Image 2026-03-17 at 5 26 32 PM](https://github.com/user-attachments/assets/bfb5dfed-c06a-4d65-9759-f2e9209fad36)
 
    **RESULT:**
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
 
-a)	The current across 330Ω resistor is	A.
+a)	The current across 330Ω resistor is 1.24mA.
 
-b)	The current across 560Ω resistor is	A.
+b)	The current across 560Ω resistor is	-4.17mA.
 
-c)	The current across 470Ω resistor is	A.
+c)	The current across 470Ω resistor is	5.44mA.
 
