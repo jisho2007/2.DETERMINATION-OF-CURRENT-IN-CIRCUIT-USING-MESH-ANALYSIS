@@ -21,6 +21,8 @@
 *Multi-source DC circuits may be analyzed using a mesh current technique. The process involves identifying minimum number of small loops such that every component exists in at least one loop. KVL is then applied to each loop. The loop currents are referred to as mesh currents as each current interlocks or meshes with the surrounding loop currents. As a result there will be a set of simultaneous equations created, an unknown mesh current for each loop. Once the mesh currents are determined, various branch currents and component voltages may be derived*
 
 **CIRCUIT DIAGRAM:**
+![WhatsApp Image 2026-03-17 at 5 15 56 PM](https://github.com/user-attachments/assets/ef5b9fdd-f093-4b14-9807-e6145141671c)
+
 
 **PROCEDURE:** 
 
@@ -35,6 +37,13 @@
 5.	Reduce the RPS to its minimum value and switch OFF the supply.
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
+7.	**TABULATION COLUMN**
+8.	![WhatsApp Image 2026-03-17 at 5 22 53 PM (1)](https://github.com/user-attachments/assets/895f0181-2812-4ed8-a2fe-0e167869ee52)
+**CALCULATION**
+![WhatsApp Image 2026-03-17 at 5 24 20 PM](https://github.com/user-attachments/assets/8e2c899f-a34c-43bc-9cb5-6be116a2df82)
+**MARKS SPLIT UP**
+![WhatsApp Image 2026-03-17 at 5 26 32 PM](https://github.com/user-attachments/assets/837c2056-1c87-4125-bdf7-ea4709ab6e72)
+
 
    **RESULT:**
 
